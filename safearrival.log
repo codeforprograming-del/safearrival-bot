@@ -1,0 +1,710 @@
+2026-04-03 14:21:16,906 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:25:53,124 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:26:46,523 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:30:20,398 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:30:25,445 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 14:30:25,955 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 14:30:25,958 — telegram.ext.Application — INFO — Application started
+2026-04-03 14:30:36,708 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:30:44,825 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:30:45,596 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:30:55,198 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:05,400 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:12,917 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:23,243 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:33,743 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:44,303 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:46,362 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:31:47,122 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:31:57,095 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:02,128 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:02,147 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:32:02,153 — scheduler — INFO — Timer set for 2026-04-03 14:33:02.138342 — user 7442012545
+2026-04-03 14:32:03,363 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:32:12,423 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:22,871 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:33,286 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:43,898 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:32:54,438 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:33:02,148 — apscheduler.scheduler — INFO — Removed job journey_1
+2026-04-03 14:33:02,148 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:33:02 IST], next run at: 2026-04-03 14:33:02 IST)" (scheduled at 2026-04-03 14:33:02.138342+05:30)
+2026-04-03 14:33:02,154 — scheduler — WARNING — Journey 1 expired for user 7442012545
+2026-04-03 14:33:03,514 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:33:03,517 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:33:02 IST], next run at: 2026-04-03 14:33:02 IST)" executed successfully
+2026-04-03 14:33:04,741 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:33:16,134 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:33:26,489 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:33:27,118 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:33:28,954 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:33:37,490 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:35:57,416 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:35:57,422 — telegram.ext.Updater — ERROR — Error while getting Updates: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-04-03 14:35:57,426 — telegram.ext.Application — ERROR — No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 66, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 366, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection.py", line 101, in handle_async_request
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection.py", line 78, in handle_async_request
+    stream = await self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection.py", line 124, in _connect
+    stream = await self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_backends\auto.py", line 31, in connect_tcp
+    return await self._backend.connect_tcp(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_backends\anyio.py", line 113, in connect_tcp
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_httpxrequest.py", line 219, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1530, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1617, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1645, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1682, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1719, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 365, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 83, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 640, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 345, in polling_action_cb
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 334, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 565, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 519, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 3562, in get_updates
+    await self._post(
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 607, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 635, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 288, in _request_wrapper
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 278, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_httpxrequest.py", line 243, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ConnectError: [Errno 11001] getaddrinfo failed
+2026-04-03 14:36:00,951 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:01,866 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:36:01,889 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:36:01,894 — scheduler — INFO — Timer set for 2026-04-03 14:37:01.880495 — user 7442012545
+2026-04-03 14:36:02,300 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:36:02,711 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:36:11,460 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:22,099 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:26,117 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:26,135 — apscheduler.scheduler — INFO — Removed job journey_2
+2026-04-03 14:36:26,145 — scheduler — INFO — Cancelled job journey_2
+2026-04-03 14:36:27,457 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:36:36,005 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:36,029 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:36:36,032 — scheduler — INFO — Timer set for 2026-04-03 14:37:36.017835 — user 7442012545
+2026-04-03 14:36:37,488 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:36:46,387 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:36:56,725 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:07,272 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:17,557 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:28,192 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:36,034 — apscheduler.scheduler — INFO — Removed job journey_3
+2026-04-03 14:37:36,034 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:37:36 IST], next run at: 2026-04-03 14:37:36 IST)" (scheduled at 2026-04-03 14:37:36.017835+05:30)
+2026-04-03 14:37:36,041 — scheduler — WARNING — Journey 3 expired for user 7442012545
+2026-04-03 14:37:38,609 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:37:38,611 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 14:37:38,611 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:39,218 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:37:39,223 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:37:36 IST], next run at: 2026-04-03 14:37:36 IST)" executed successfully
+2026-04-03 14:37:49,057 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:37:59,445 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:38:09,847 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:38:20,194 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:38:30,632 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:38:40,902 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:38:51,210 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:39:01,687 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:40:50,536 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:40:51,786 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 14:40:52,060 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 14:40:52,062 — telegram.ext.Application — INFO — Application started
+2026-04-03 14:40:55,248 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:40:56,066 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:41:05,780 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:16,129 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:18,161 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:18,190 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:41:18,192 — scheduler — INFO — Timer set for 2026-04-03 14:42:18.168357 — user 7442012545
+2026-04-03 14:41:19,900 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:41:28,374 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:38,245 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:48,569 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:41:58,928 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:42:09,615 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:42:18,191 — apscheduler.scheduler — INFO — Removed job journey_4
+2026-04-03 14:42:18,191 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:42:18 IST], next run at: 2026-04-03 14:42:18 IST)" (scheduled at 2026-04-03 14:42:18.168357+05:30)
+2026-04-03 14:42:18,197 — scheduler — WARNING — Journey 4 expired for user 7442012545
+2026-04-03 14:42:19,963 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:42:19,963 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:42:19,963 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 14:42:20,534 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:42:20,538 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:42:18 IST], next run at: 2026-04-03 14:42:18 IST)" executed successfully
+2026-04-03 14:42:30,399 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:42:40,736 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:42:51,043 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:43:01,325 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:43:11,701 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:43:22,403 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:47:45,782 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:47:46,464 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 14:47:46,645 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 14:47:46,646 — telegram.ext.Application — INFO — Application started
+2026-04-03 14:47:47,270 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:47:47,917 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 403 Forbidden"
+2026-04-03 14:47:47,917 — telegram.ext.Application — ERROR — No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_application.py", line 1195, in process_update
+    await coroutine
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_basehandler.py", line 153, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\safearrival-bot\handlers.py", line 19, in start
+    await update.message.reply_text(
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_message.py", line 1095, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 2631, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 519, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 840, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 529, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 697, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 607, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 635, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 316, in _request_wrapper
+    raise Forbidden(message)
+telegram.error.Forbidden: Forbidden: bot was blocked by the user
+2026-04-03 14:47:57,713 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:08,089 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:12,536 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:13,913 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:48:23,040 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:33,376 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:39,561 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:48:39,578 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:48:39,579 — scheduler — INFO — Timer set for 2026-04-03 14:49:39.561195 — user 7442012545
+2026-04-03 14:48:40,965 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:48:50,168 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:00,612 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:11,269 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:21,546 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:31,828 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:39,575 — apscheduler.scheduler — INFO — Removed job journey_5
+2026-04-03 14:49:39,577 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:49:39 IST], next run at: 2026-04-03 14:49:39 IST)" (scheduled at 2026-04-03 14:49:39.561195+05:30)
+2026-04-03 14:49:39,582 — scheduler — WARNING — Journey 5 expired for user 7442012545
+2026-04-03 14:49:41,679 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:49:41,679 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 14:49:42,292 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:49:42,296 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:49:42,297 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:49:39 IST], next run at: 2026-04-03 14:49:39 IST)" executed successfully
+2026-04-03 14:49:52,935 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:03,498 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:13,947 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:24,483 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:34,840 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:45,068 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:46,207 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:50:55,713 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:56,053 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:50:56,071 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:50:56,076 — scheduler — INFO — Timer set for 2026-04-03 14:51:56.064005 — user 7442012545
+2026-04-03 14:50:57,664 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:51:06,785 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:17,118 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:27,459 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:37,904 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:48,181 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:53,575 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:51:54,897 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:51:56,072 — apscheduler.scheduler — INFO — Removed job journey_6
+2026-04-03 14:51:56,072 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:51:56 IST], next run at: 2026-04-03 14:51:56 IST)" (scheduled at 2026-04-03 14:51:56.064005+05:30)
+2026-04-03 14:51:56,078 — scheduler — WARNING — Journey 6 expired for user 7442012545
+2026-04-03 14:51:56,954 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:51:56,957 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 14:51:58,225 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:51:58,227 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 14:51:58,956 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:51:58,961 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:51:56 IST], next run at: 2026-04-03 14:51:56 IST)" executed successfully
+2026-04-03 14:52:04,000 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:52:14,429 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:52:24,809 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:52:35,098 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:52:45,389 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:52:55,668 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:53:05,932 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:53:16,415 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:53:48,709 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 14:53:49,716 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 14:53:50,004 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 14:53:50,006 — telegram.ext.Application — INFO — Application started
+2026-04-03 14:54:00,869 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:03,827 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:05,038 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:54:14,381 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:24,642 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:34,908 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:37,620 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:38,690 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:54:45,882 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:54:45,917 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 14:54:45,919 — scheduler — INFO — Timer set for 2026-04-03 14:55:45.896506 — user 7442012545
+2026-04-03 14:54:47,049 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:54:56,571 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:06,879 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:17,261 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:27,904 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:38,103 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:45,906 — apscheduler.scheduler — INFO — Removed job journey_7
+2026-04-03 14:55:45,906 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:55:45 IST], next run at: 2026-04-03 14:55:45 IST)" (scheduled at 2026-04-03 14:55:45.896506+05:30)
+2026-04-03 14:55:45,914 — scheduler — WARNING — Journey 7 expired for user 7442012545
+2026-04-03 14:55:47,371 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:55:47,373 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 14:55:48,283 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:55:48,287 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 14:55:48,512 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:55:49,177 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 14:55:49,177 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 14:55:49,915 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 14:55:49,917 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 14:55:45 IST], next run at: 2026-04-03 14:55:45 IST)" executed successfully
+2026-04-03 14:55:59,143 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:56:09,480 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:56:20,139 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:56:30,510 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:56:40,832 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:56:51,260 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:01,501 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:11,955 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:22,397 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:32,946 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:43,458 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:57:53,816 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:04,132 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:14,429 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:24,758 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:35,202 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:45,844 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:58:56,191 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:06,556 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:16,981 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:27,422 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:37,877 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:48,617 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 14:59:58,864 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:00:09,412 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:00:19,790 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:00:30,098 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:00:40,448 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:00:50,673 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:00,960 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:11,812 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:12,308 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:13,723 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:01:22,732 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:33,173 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:43,404 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:46,186 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:47,920 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:01:55,705 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:01:55,758 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:01:55,758 — scheduler — INFO — Timer set for 2026-04-03 15:02:55.726010 — user 7442012545
+2026-04-03 15:01:56,828 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:02:06,446 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:17,004 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:27,357 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:38,094 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:48,541 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:55,729 — apscheduler.scheduler — INFO — Removed job journey_8
+2026-04-03 15:02:55,731 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:02:55 IST], next run at: 2026-04-03 15:02:55 IST)" (scheduled at 2026-04-03 15:02:55.726010+05:30)
+2026-04-03 15:02:55,739 — scheduler — WARNING — Journey 8 expired for user 7442012545
+2026-04-03 15:02:58,173 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:02:58,175 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 15:02:58,759 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:02:59,050 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:02:59,050 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 15:02:59,826 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:02:59,828 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 15:03:00,176 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 403 Forbidden"
+2026-04-03 15:03:00,178 — alerts — ERROR — Failed to alert Ash: Forbidden: bot was blocked by the user
+2026-04-03 15:03:00,567 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:03:00,569 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:02:55 IST], next run at: 2026-04-03 15:02:55 IST)" executed successfully
+2026-04-03 15:03:09,531 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:03:19,890 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:03:30,527 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:03:40,805 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:03:51,148 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:23:39,862 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 15:23:41,345 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 15:23:41,653 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 15:23:41,655 — telegram.ext.Application — INFO — Application started
+2026-04-03 15:23:52,607 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:02,890 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:13,192 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:20,255 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:21,116 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:24:30,803 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:40,741 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:24:42,270 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:24:51,102 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:01,540 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:03,438 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:03,472 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:25:03,480 — scheduler — INFO — Timer set for 2026-04-03 15:26:03.448647 — user 7442012545
+2026-04-03 15:25:05,053 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:25:13,739 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:14,222 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:14,516 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:15,962 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:25:24,979 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:35,828 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:46,032 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:25:56,232 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:03,452 — apscheduler.scheduler — INFO — Removed job journey_9
+2026-04-03 15:26:03,452 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:26:03 IST], next run at: 2026-04-03 15:26:03 IST)" (scheduled at 2026-04-03 15:26:03.448647+05:30)
+2026-04-03 15:26:03,455 — scheduler — WARNING — Journey 9 expired for user 7442012545
+2026-04-03 15:26:04,925 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:26:04,925 — alerts — ERROR — Failed to alert Ashwani: Chat not found
+2026-04-03 15:26:05,773 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:26:05,773 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 15:26:06,756 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:06,758 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 400 Bad Request"
+2026-04-03 15:26:06,760 — alerts — ERROR — Failed to alert Ayush: Chat not found
+2026-04-03 15:26:07,333 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:26:07,786 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:26:07,788 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:26:03 IST], next run at: 2026-04-03 15:26:03 IST)" executed successfully
+2026-04-03 15:26:17,024 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:27,339 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:37,639 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:48,025 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:26:58,210 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:08,407 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:09,385 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:10,122 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:27:13,346 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:13,700 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/answerCallbackQuery "HTTP/1.1 200 OK"
+2026-04-03 15:27:14,096 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/editMessageText "HTTP/1.1 200 OK"
+2026-04-03 15:27:15,616 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:15,965 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/answerCallbackQuery "HTTP/1.1 200 OK"
+2026-04-03 15:27:16,327 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/editMessageText "HTTP/1.1 200 OK"
+2026-04-03 15:27:20,696 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:21,052 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/answerCallbackQuery "HTTP/1.1 200 OK"
+2026-04-03 15:27:21,429 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/editMessageText "HTTP/1.1 200 OK"
+2026-04-03 15:27:24,011 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:24,368 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/answerCallbackQuery "HTTP/1.1 200 OK"
+2026-04-03 15:27:24,726 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/editMessageText "HTTP/1.1 200 OK"
+2026-04-03 15:27:34,255 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:37,415 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:38,223 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:27:47,607 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:27:57,816 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:07,647 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:07,666 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:28:07,669 — scheduler — INFO — Timer set for 2026-04-03 15:29:07.659433 — user 7442012545
+2026-04-03 15:28:08,496 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:28:17,836 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:28,035 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:38,244 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:48,430 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:28:58,618 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:07,660 — apscheduler.scheduler — INFO — Removed job journey_10
+2026-04-03 15:29:07,660 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:29:07 IST], next run at: 2026-04-03 15:29:07 IST)" (scheduled at 2026-04-03 15:29:07.659433+05:30)
+2026-04-03 15:29:07,661 — scheduler — WARNING — Journey 10 expired for user 7442012545
+2026-04-03 15:29:08,436 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:29:08,816 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:29:08,816 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:29:07 IST], next run at: 2026-04-03 15:29:07 IST)" executed successfully
+2026-04-03 15:29:08,817 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:19,012 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:29,268 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:32,852 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:32,866 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:29:32,866 — scheduler — INFO — Timer set for 2026-04-03 15:30:32.860204 — user 7442012545
+2026-04-03 15:29:33,789 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:29:40,774 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:29:40,774 — apscheduler.scheduler — INFO — Removed job journey_11
+2026-04-03 15:29:40,788 — scheduler — INFO — Cancelled job journey_11
+2026-04-03 15:29:41,622 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:29:50,958 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:01,145 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:11,339 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:21,564 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:31,770 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:41,962 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:30:52,166 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:36:43,618 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 15:36:44,294 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 15:36:44,482 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 15:36:44,484 — telegram.ext.Application — INFO — Application started
+2026-04-03 15:36:45,010 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:36:45,368 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:36:55,184 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:05,364 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:15,540 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:21,265 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:22,022 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:37:31,378 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:31,401 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:37:31,401 — scheduler — INFO — Timer set for 2026-04-03 15:38:31.393667 — user 7442012545
+2026-04-03 15:37:32,366 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:37:41,565 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:37:51,741 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:01,922 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:12,099 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:22,298 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:31,399 — apscheduler.scheduler — INFO — Removed job journey_12
+2026-04-03 15:38:31,399 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:38:31 IST], next run at: 2026-04-03 15:38:31 IST)" (scheduled at 2026-04-03 15:38:31.393667+05:30)
+2026-04-03 15:38:31,399 — scheduler — WARNING — Journey 12 expired for user 7442012545
+2026-04-03 15:38:32,169 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:38:32,474 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:32,544 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:38:32,910 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:38:32,914 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:38:31 IST], next run at: 2026-04-03 15:38:31 IST)" executed successfully
+2026-04-03 15:38:42,663 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:38:50,964 — telegram.ext.Updater — ERROR — Error while getting Updates: httpx.ReadError: 
+2026-04-03 15:38:50,992 — telegram.ext.Application — ERROR — No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 66, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 366, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\http11.py", line 136, in handle_async_request
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_httpxrequest.py", line 219, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1530, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1617, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1645, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1682, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_client.py", line 1719, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 365, in handle_async_request
+    with map_httpcore_exceptions():
+  File "C:\Program Files\Python311\Lib\contextlib.py", line 155, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\httpx\_transports\default.py", line 83, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 640, in _network_loop_retry
+    if not await action_cb():
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 345, in polling_action_cb
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_updater.py", line 334, in polling_action_cb
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 565, in get_updates
+    updates = await super().get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 519, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 3562, in get_updates
+    await self._post(
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 607, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\ext\_extbot.py", line 347, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\_bot.py", line 635, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 288, in _request_wrapper
+    raise exc
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_baserequest.py", line 278, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ASHWANI MURYA\AppData\Roaming\Python\Python311\site-packages\telegram\request\_httpxrequest.py", line 243, in do_request
+    raise NetworkError(f"httpx.{err.__class__.__name__}: {err}") from err
+telegram.error.NetworkError: httpx.ReadError: 
+2026-04-03 15:39:02,552 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:39:12,736 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:39:22,921 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:39:33,110 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:39:43,295 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:39:53,478 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:03,661 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:13,851 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:24,038 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:34,221 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:44,409 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:40:54,591 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:04,767 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:14,966 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:25,157 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:35,345 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:45,527 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:41:55,712 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:42:05,894 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:42:16,078 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:42:26,265 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:14,270 — apscheduler.scheduler — INFO — Scheduler started
+2026-04-03 15:45:14,919 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getMe "HTTP/1.1 200 OK"
+2026-04-03 15:45:15,096 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/deleteWebhook "HTTP/1.1 200 OK"
+2026-04-03 15:45:15,096 — telegram.ext.Application — INFO — Application started
+2026-04-03 15:45:18,022 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:18,431 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:45:28,199 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:33,183 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:33,198 — apscheduler.scheduler — INFO — Added job "schedule_journey_check.<locals>.fire_alert" to job store "default"
+2026-04-03 15:45:33,198 — scheduler — INFO — Timer set for 2026-04-03 15:48:33.183828 — user 7442012545
+2026-04-03 15:45:33,922 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:45:43,375 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:45,834 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:45:46,674 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:45:56,018 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:06,197 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:16,391 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:26,566 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:36,766 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:46,962 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:46:57,157 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:07,364 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:17,663 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:27,863 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:38,063 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:48,240 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:47:58,447 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:08,638 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:18,818 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:28,999 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:33,199 — apscheduler.scheduler — INFO — Removed job journey_13
+2026-04-03 15:48:33,199 — apscheduler.executors.default — INFO — Running job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:48:33 IST], next run at: 2026-04-03 15:48:33 IST)" (scheduled at 2026-04-03 15:48:33.183828+05:30)
+2026-04-03 15:48:33,199 — scheduler — WARNING — Journey 13 expired for user 7442012545
+2026-04-03 15:48:33,989 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:48:34,527 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:48:34,928 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/sendMessage "HTTP/1.1 200 OK"
+2026-04-03 15:48:34,928 — apscheduler.executors.default — INFO — Job "schedule_journey_check.<locals>.fire_alert (trigger: date[2026-04-03 15:48:33 IST], next run at: 2026-04-03 15:48:33 IST)" executed successfully
+2026-04-03 15:48:39,406 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:49,772 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:48:59,961 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:49:10,131 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:49:20,329 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:49:30,511 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:49:40,692 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:49:50,878 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
+2026-04-03 15:50:01,065 — httpx — INFO — HTTP Request: POST https://api.telegram.org/bot8733229815:AAFZEEL4GozXnCNfSXa3I0cD_wFkbtMPVgQ/getUpdates "HTTP/1.1 200 OK"
